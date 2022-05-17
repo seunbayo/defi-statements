@@ -119,3 +119,6 @@ dist
 *.iml
 .idea
 
+contract/artifacts
+contract/cache
+contract/typechain
